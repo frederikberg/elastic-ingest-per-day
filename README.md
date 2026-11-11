@@ -7,8 +7,8 @@
 
 # Elastic Ingest per Day
 
-[![CI](https://github.com/frederikb96/elastic-ingest-per-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/frederikb96/elastic-ingest-per-day/actions/workflows/ci.yaml)
-[![Release](https://img.shields.io/github/v/release/frederikb96/elastic-ingest-per-day)](https://github.com/frederikb96/elastic-ingest-per-day/releases)
+[![CI](https://github.com/frederikberg/elastic-ingest-per-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/frederikberg/elastic-ingest-per-day/actions/workflows/ci.yaml)
+[![Release](https://img.shields.io/github/v/release/frederikberg/elastic-ingest-per-day)](https://github.com/frederikberg/elastic-ingest-per-day/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </td>
@@ -58,7 +58,7 @@ Create a `.env` file (see configuration below), then pick one of:
 **Run directly from a release** — no clone needed:
 
 ```bash
-uv run https://raw.githubusercontent.com/frederikb96/elastic-ingest-per-day/v1.2.1/elastic_ingest_per_day.py
+uv run https://raw.githubusercontent.com/frederikberg/elastic-ingest-per-day/v1.2.1/elastic_ingest_per_day.py
 ```
 
 **Or locally:**
